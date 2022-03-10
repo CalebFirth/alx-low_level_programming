@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+puts function
+return 0
+*/
 
 int main(void)
 {
